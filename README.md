@@ -6,7 +6,7 @@ Création de l'animation : mouse hover glow animation en HTML5, CSS3.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/mouse_hover_glow_animation/
 
 ## Projet développé avec
 
